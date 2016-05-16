@@ -1,0 +1,19 @@
+{
+  "name": "startbootstrap-grayscale-1.0.6",
+  "version": "1.0.0",
+  "description": "[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "express": "^4.13.4",
+    "grunt": "^1.0.1",
+    "jquery": "^2.2.3",
+    "path": "^0.12.7"
+  }
+}
